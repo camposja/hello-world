@@ -11,3 +11,11 @@ body {
   margin: 28px;
   font: 18px / 1 Arial Bold;
 }
+
+h1  {
+  margin-left: 6em;
+}
+
+img {
+  margin-right: 12em;
+}
