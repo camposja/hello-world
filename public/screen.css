@@ -1,6 +1,6 @@
-* {
-background-color: gray;
-color: #010383;
+{
+  background-color: gray;
+  color: #010383;
 }
 
 html {
@@ -12,7 +12,7 @@ body {
   font: 18px / 1 Arial Bold;
 }
 
-h1  {
+h1 {
   margin-left: 6em;
 }
 
